@@ -1,0 +1,14 @@
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\bin\Debug\netcoreapp2.1\Senai.Senatur.Manha.deps.json
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\bin\Debug\netcoreapp2.1\Senai.Senatur.Manha.runtimeconfig.json
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\bin\Debug\netcoreapp2.1\Senai.Senatur.Manha.runtimeconfig.dev.json
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\bin\Debug\netcoreapp2.1\Senai.Senatur.Manha.dll
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\bin\Debug\netcoreapp2.1\Senai.Senatur.Manha.pdb
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.csprojAssemblyReference.cache
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.csproj.CoreCompileInputs.cache
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.RazorAssemblyInfo.cache
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.RazorAssemblyInfo.cs
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.AssemblyInfoInputs.cache
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.AssemblyInfo.cs
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.RazorTargetAssemblyInfo.cache
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.dll
+C:\Users\47575406808\Desktop\Senatur\Senai.Senatur.Manha\Senai.Senatur.Manha\obj\Debug\netcoreapp2.1\Senai.Senatur.Manha.pdb
